@@ -1,2 +1,1 @@
-# gesture-recognition-system
-Video and photos of gesture recognition system
+这个文件中保存了手势识别系统的视频和图片
